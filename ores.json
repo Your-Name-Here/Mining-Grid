@@ -1,0 +1,60 @@
+{
+    "ores": {
+        "iron": {
+            "min_depth": 5,
+            "max_depth": 20,
+            "rarity": 0.9,
+            "max_spawn": 1000,
+            "spawn_factor": 1.0
+        },
+        "copper": {
+            "min_depth": 10,
+            "max_depth": 30,
+            "rarity": 0.8,
+            "max_spawn": 800,
+            "spawn_factor": 0.9
+        },
+        "silver": {
+            "min_depth": 20,
+            "max_depth": 50,
+            "rarity": 0.6,
+            "max_spawn": 500,
+            "spawn_factor": 0.7
+        },
+        "gold": {
+            "min_depth": 30,
+            "max_depth": 70,
+            "rarity": 0.4,
+            "max_spawn": 250,
+            "spawn_factor": 0.5
+        },
+        "platinum": {
+            "min_depth": 50,
+            "max_depth": 90,
+            "rarity": 0.2,
+            "max_spawn": 100,
+            "spawn_factor": 0.3
+        },
+        "titanium": {
+            "min_depth": 60,
+            "max_depth": 100,
+            "rarity": 0.15,
+            "max_spawn": 75,
+            "spawn_factor": 0.25
+        },
+        "uranium": {
+            "min_depth": 80,
+            "max_depth": 120,
+            "rarity": 0.05,
+            "max_spawn": 50,
+            "spawn_factor": 0.2
+        },
+        "adamantite": {
+            "min_depth": 100,
+            "max_depth": 150,
+            "rarity": 0.01,
+            "max_spawn": 10,
+            "spawn_factor": 0.1
+        }
+    }
+}
