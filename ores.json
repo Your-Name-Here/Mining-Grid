@@ -1,5 +1,10 @@
 {
-    "ores": {
+    "names": [
+        "iron", "copper", "silver", "gold", "platinum", "titanium", "uranium",
+        "adamantite", "nickel", "chromium", "aluminum", "tungsten", "carbon",
+        "zinc", "tin", "vanadium", "manganese"
+    ],
+    "stats": {
         "iron": {
             "min_depth": 5,
             "max_depth": 20,
