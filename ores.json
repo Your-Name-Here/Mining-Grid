@@ -1,123 +1,123 @@
 {
     "names": [
-        "iron", "copper", "silver", "gold", "platinum", "titanium", "uranium",
-        "adamantite", "nickel", "chromium", "aluminum", "tungsten", "carbon",
-        "zinc", "tin", "vanadium", "manganese"
+        "Iron", "Copper", "Silver", "Gold", "Platinum", "Titanium", "Uranium",
+        "Adamantite", "Nickel", "Chromium", "Aluminum", "Tungsten", "Carbon",
+        "Zinc", "Tin", "Vanadium", "Manganese"
     ],
     "stats": {
-        "iron": {
+        "Iron": {
             "min_depth": 5,
             "max_depth": 20,
             "rarity": 0.9,
             "max_spawn": 1000,
             "spawn_factor": 1.0
         },
-        "copper": {
+        "Copper": {
             "min_depth": 10,
             "max_depth": 30,
             "rarity": 0.8,
             "max_spawn": 800,
             "spawn_factor": 0.9
         },
-        "silver": {
+        "Silver": {
             "min_depth": 20,
             "max_depth": 50,
             "rarity": 0.6,
             "max_spawn": 500,
             "spawn_factor": 0.7
         },
-        "gold": {
+        "Gold": {
             "min_depth": 30,
             "max_depth": 70,
             "rarity": 0.4,
             "max_spawn": 250,
             "spawn_factor": 0.5
         },
-        "platinum": {
+        "Platinum": {
             "min_depth": 50,
             "max_depth": 90,
             "rarity": 0.2,
             "max_spawn": 100,
             "spawn_factor": 0.3
         },
-        "titanium": {
+        "Titanium": {
             "min_depth": 60,
             "max_depth": 100,
             "rarity": 0.15,
             "max_spawn": 75,
             "spawn_factor": 0.25
         },
-        "uranium": {
+        "Uranium": {
             "min_depth": 80,
             "max_depth": 120,
             "rarity": 0.05,
             "max_spawn": 50,
             "spawn_factor": 0.2
         },
-        "adamantite": {
+        "Adamantite": {
             "min_depth": 100,
             "max_depth": 150,
             "rarity": 0.01,
             "max_spawn": 10,
             "spawn_factor": 0.1
         },
-        "nickel": {
+        "Nickel": {
             "min_depth": 30,
             "max_depth": 70,
             "rarity": 0.4,
             "max_spawn": 250,
             "spawn_factor": 0.5
         },
-        "chromium": {
+        "Chromium": {
             "min_depth": 50,
             "max_depth": 90,
             "rarity": 0.3,
             "max_spawn": 200,
             "spawn_factor": 0.4
         },
-        "aluminum": {
+        "Aluminum": {
             "min_depth": 20,
             "max_depth": 60,
             "rarity": 0.6,
             "max_spawn": 500,
             "spawn_factor": 0.7
         },
-        "tungsten": {
+        "Tungsten": {
             "min_depth": 70,
             "max_depth": 110,
             "rarity": 0.2,
             "max_spawn": 150,
             "spawn_factor": 0.3
         },
-        "carbon": {
+        "Carbon": {
             "min_depth": 5,
             "max_depth": 40,
             "rarity": 0.9,
             "max_spawn": 1000,
             "spawn_factor": 1.0
         },
-        "zinc": {
+        "Zinc": {
             "min_depth": 10,
             "max_depth": 50,
             "rarity": 0.6,
             "max_spawn": 500,
             "spawn_factor": 0.6
         },
-        "tin": {
+        "Tin": {
             "min_depth": 15,
             "max_depth": 45,
             "rarity": 0.5,
             "max_spawn": 400,
             "spawn_factor": 0.6
         },
-        "vanadium": {
+        "Vanadium": {
             "min_depth": 80,
             "max_depth": 130,
             "rarity": 0.1,
             "max_spawn": 50,
             "spawn_factor": 0.2
         },
-        "manganese": {
+        "Manganese": {
             "min_depth": 40,
             "max_depth": 80,
             "rarity": 0.4,
